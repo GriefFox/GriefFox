@@ -23,4 +23,4 @@
 
 # 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 - ea.fadin@gmail.com
-- @grieffox
+- t.me/grieffox
