@@ -1,7 +1,7 @@
 # I am Fadin Egor
 # Languages:
-- C - average
-- Python - pretty good
+- C - average - 1 year
+- Python - pretty good - about 5 years
   
 # Education:
 - Yandex.Lyceum
