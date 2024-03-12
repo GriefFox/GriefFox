@@ -13,9 +13,9 @@
 ## English B2
 
 # Interests in:
-## CTFs, especially PWN, Miscs and revers
-## Music
-## Games
+- CTFs, especially PWN, Miscs and revers
+- Music
+- Games: strategy, 
 <!--
 **TuhFox/TuhFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
