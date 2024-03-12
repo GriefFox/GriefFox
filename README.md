@@ -4,9 +4,9 @@
 - Python - pretty good
 # Education:
 - Yandex.Lyceum
--- 1 year - 2101 46740
--- 2 year - 2212 46740
-- Link for check - https://lms.yandex.ru/certificate/check/
+	- 1 year - 2101 46740
+	- 2 year - 2212 46740
+	- Link for check - https://lms.yandex.ru/certificate/check/
 - Now student in MEPhI
 - English B2
 # Interests in:
