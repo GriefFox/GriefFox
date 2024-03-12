@@ -12,7 +12,11 @@
 # Interests in:
 - CTFs, especially PWN, Miscs and revers
 - Music
-- Games: strategy, 
+- Games: strategy
+
+# 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+- ea.fadin@gmail.com
+- @grieffox
 <!--
 **TuhFox/TuhFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
