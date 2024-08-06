@@ -3,7 +3,7 @@
 - C - average - 1 year
 - Python - pretty good - about 5 years
 # Interests in:
-- CTFs, especially PWN, Miscs and revers
+- CTFs, especially PWN
 - Music
 - Rock climbing
 - Games
